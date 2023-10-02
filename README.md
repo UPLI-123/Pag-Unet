@@ -12,7 +12,14 @@ This directory contains codes of our paper Pag-Unet:
 </p>
 
 <p align="center">
-  <img alt="img-name" src="https://user-images.githubusercontent.com/14089338/184339231-e019b212-f2ac-4cb9-9aa8-f50794b16ccb.png" width="1000">
+  <img alt="img-name" src="https://github.com/UPLI-123/Pag-Unet/blob/main/Image/Pself.png" width="1000">
   <br>
-    <em>Framework overview of the proposed Inverted Pyramid Multi-task Transformer (InvPT) for dense scene understanding.</em>
+    <em>Framework overview of the proposed Personalized self-attention.</em>
 </p>
+
+# :grinning: Configuration!
+## Get Data
+We use the same data (PASCAL-Context and NYUD-v2) as ATRC. You can download the data from:
+[PASCALContext.tar.gz](https://hkustconnect-my.sharepoint.com/:u:/g/personal/hyeae_connect_ust_hk/ER57KyZdEdxPtgMCai7ioV0BXCmAhYzwFftCwkTiMmuM7w?e=2Ex4ab),
+[NYUDv2.tar.gz](https://hkustconnect-my.sharepoint.com/:u:/g/personal/hyeae_connect_ust_hk/EZ-2tWIDYSFKk7SCcHRimskBhgecungms4WFa_L-255GrQ?e=6jAt4c)
+
