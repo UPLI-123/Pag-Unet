@@ -34,12 +34,12 @@ To faciliate the community to reproduce our SoTA results, we re-train our best p
 ### Download pre-trained models
 |Version | Dataset | Download | Segmentation | Human parsing | Saliency | Normals | Boundary | 
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **Pag-Unet(our paper)**| **PASCAL-Context** | [google drive](https://drive.google.com/file/d/1r0ugzCd45YiuBrbYTb94XVIRj6VUsBAS/view?usp=sharing), [onedrive](https://hkustconnect-my.sharepoint.com/:u:/g/personal/hyeae_connect_ust_hk/EcwMp9uUEfdLnQcaNJsN3bgBfQeHHqs2pkj7KmtGx_dslw?e=0CtDfq) | **79.12** | **70.24** | 83.88 | **14.04** | **75.79** |
+| **Pag-Unet(our paper)**| **PASCAL-Context** | [Baidu Netdisk](https://pan.baidu.com/s/1Z3knCJ4EYHzMhp4VPD7tTA?pwd=9yih) | **79.12** | **70.24** | 83.88 | **14.04** | **75.79** |
 | InvPT (ECCV 2022)| PASCAL-Context | - | 79.03 | 67.61 | **84.81** | 14.15 | 73.00 | 
 | DeMT (AAAI 2023) | PASCAL-Context | - | 75.33 | 63.11 | 83.42 | 14.54 | 73.20 |
 
 |Version | Dataset | Download | Segmentation | Depth | Normals | Boundary|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **Pag-Unet(our paper)**| **NYUD-v2** | [google drive](https://drive.google.com/file/d/1Ag_4axN-TaAZS_W-nFIm4__DoDw1zgqI/view?usp=sharing), [onedrive](https://hkustconnect-my.sharepoint.com/:u:/g/personal/hyeae_connect_ust_hk/EU6ypDGEFPFLuC5rG5Vj2KkBliG1gXgbXh2t_YQJIk9YLw?e=U6hJ4H) | **53.94** | 0.5456 | **18.90** | **78.65**|
+| **Pag-Unet(our paper)**| **NYUD-v2** | [Baidu Netdisk](https://pan.baidu.com/s/1Wzen31ivqMTV6kWPJ_XCmA?pwd=362c) | **53.94** | 0.5456 | **18.90** | **78.65**|
 |InvPT (ECCV 2022) |NYUD-v2|-| 53.56 | **0.5183** | 19.04 | 78.10 |
 |DeMT (AAAI 2023) |NYUD-v2|-| 51.50 | 0.5474 | 20.02 | 78.10|
